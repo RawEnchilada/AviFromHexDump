@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Avi from hex dump/1.0.0": {
+        "runtime": {
+          "Avi from hex dump.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avi from hex dump/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
